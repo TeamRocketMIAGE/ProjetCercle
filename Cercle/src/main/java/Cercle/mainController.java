@@ -11,7 +11,7 @@ public class mainController {
 	
 
 	
-	 @RequestMapping("/index")
+	 @RequestMapping("/")
 	    public String requestCreatePage(Model model) {
 	    	
 
