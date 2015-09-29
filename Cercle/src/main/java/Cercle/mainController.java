@@ -15,8 +15,6 @@ public class mainController {
 	    public String requestCreatePage(Model model) {
 	    	
 
-    	
-	    	
 	    	
 	    	return "index";
 	    	
